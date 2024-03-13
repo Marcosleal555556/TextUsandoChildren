@@ -15,8 +15,6 @@ Texto 3
 
 </Text>
 
-
-
 </View>
 
 );
