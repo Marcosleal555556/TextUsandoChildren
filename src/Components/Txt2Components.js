@@ -6,7 +6,7 @@ import { Children } from 'react';
 
 
 
-export default function Txt2({}) {
+export default function txt2({}) {
 
 return (
 <View style={{ backgroundColorcolor: 'white', }}>

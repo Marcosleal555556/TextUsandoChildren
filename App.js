@@ -1,9 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, } from 'react-native';
-import Txt from './assets/src/Components/TxtComponent';
-import Txt2 from './assets/src/Components/txt2Components';
-import Txt3 from './assets/src/Components/txt3Components';
-import Fundo from './assets/src/Components/FundoComponent';
+import Txt1 from './src/Components/TxtComponent';
+import Txt2 from './src/Components/Txt2Components';
+import Txt3 from './src/Components/txt3Componentsxt3Component';
+import Fundo from './src/Components/FundoComponent';
 
 export default function App() {
   return (
@@ -11,7 +11,7 @@ export default function App() {
    <Fundo>
 
 
-   <Txt />
+   <Txt1 />
 <Txt2 />
 <Txt3 />
 

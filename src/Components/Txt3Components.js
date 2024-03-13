@@ -6,7 +6,7 @@ import { Children } from 'react';
 
 
 
-export default function Txt3() {
+export default function txt3() {
 
 return (
 <View>
