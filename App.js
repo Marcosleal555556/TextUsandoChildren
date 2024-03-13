@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, } from 'react-native';
 import Txt1 from './src/Components/TxtComponent';
 import Txt2 from './src/Components/Txt2Components';
-import Txt3 from './src/Components/txt3Componentsxt3Component';
+import Txt3 from './src/Components/Txt3Components';
 import Fundo from './src/Components/FundoComponent';
 
 export default function App() {
@@ -12,8 +12,8 @@ export default function App() {
 
 
    <Txt1 />
-<Txt2 />
-<Txt3 />
+   <Txt2 />
+   <Txt3 />
 
 
 
